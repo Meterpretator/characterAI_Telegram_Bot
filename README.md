@@ -9,7 +9,7 @@ In `config.py` change variables:
 
 | PARAMETR      | DESCRIPTION                                                                                                                                   |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| `TOKEN_VALUE` | 1. Open DevTools in your browser (I used Firefox)<br/>2. Go to Storage -> Local Storage -> char_token<br/>3. Copy value                       |
+| `TOKEN_VALUE` | 1. Open DevTools in your browser (I used Firefox)<br/>2. Go to Storage -> Local Storage -> char_token<br/>3. Copy `value`                       |
 | `CHAR_TOKEN`  | Character token from URL<br/>(e.g. https://beta.character.ai/chat?source=recent-chats&char=XXXXXXXXXXX where `XXXXXXXXXXX` is Character token |
 | `BOT_TOKEN`   | Your telegram bot token                                                                                                                       |
 
