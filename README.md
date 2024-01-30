@@ -1,5 +1,5 @@
 # characterAI_Telegram_Bot
-Simple telegram bot for Character.AI using an unofficial API for Character AI for Python (https://github.com/kramcat/CharacterAI)
+Simple aiogram bot for Character.AI using an unofficial API for Character AI for Python (https://github.com/kramcat/CharacterAI)
 # Installation
 ```shell
 pip install -r requirements.txt
