@@ -1,6 +1,6 @@
 # telegram bot token
-BOT_TOKEN = '6658601003:AAGX1Ae2hq7fzM0PrJL2lJQZ6ojVvOjPepo'
+BOT_TOKEN = 'BOT_TOKEN'
 #YOUR CHARACTER.AI TOKEN
-TOKEN_VALUE = '07d14744a69f8cedc98df884e3c72c25a10845e8'
+TOKEN_VALUE = 'token'
 #Character ID, found in the url of the character
-CHAR_TOKEN = 'ba6omnEWTfQnBdfPExNUpEB6MwSMjXCWBBYMX3A1FlE'
+CHAR_TOKEN = 'character url value'
